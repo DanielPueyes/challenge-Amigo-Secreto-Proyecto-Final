@@ -18,31 +18,31 @@ Características
 
 Tecnologías utilizadas
 
-HTML5
+✅HTML5
 
-CSS3
+✅CSS3
 
-JavaScript (vanilla)
+✅JavaScript
 
-Confetti.js (para efectos visuales)
+✅Confetti.js (para efectos visuales)
 
 Cómo usar la aplicación
 
-Ingresar un nombre en el campo de texto y hacer clic en "Añadir".
+✅Ingresar un nombre en el campo de texto y hacer clic en "Añadir".
 
-Repetir el paso anterior hasta completar la lista de participantes.
+✅Repetir el paso anterior hasta completar la lista de participantes.
 
-Hacer clic en "Sortear Amigo" para seleccionar un nombre aleatoriamente.
+✅Hacer clic en "Sortear Amigo" para seleccionar un nombre aleatoriamente.
 
-El nombre sorteado se destacará con un color llamativo.
+✅El nombre sorteado se destacará con un color llamativo.
 
-Se mostrará el nombre sorteado con un efecto de confeti.
+✅Se mostrará el nombre sorteado con un efecto de confeti.
 
-Repetir el sorteo hasta que todos los nombres sean seleccionados.
+✅Repetir el sorteo hasta que todos los nombres sean seleccionados.
 
-Una vez que todos los nombres hayan sido sorteados, los botones se deshabilitarán.
+✅Una vez que todos los nombres hayan sido sorteados, los botones se deshabilitarán.
 
-Hacer clic en "Reiniciar Sorteo" para empezar nuevamente.
+✅Hacer clic en "Reiniciar Sorteo" para empezar nuevamente.
 
 Instalación y ejecución
 
